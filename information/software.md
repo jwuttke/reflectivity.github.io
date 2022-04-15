@@ -31,7 +31,7 @@ The following links provide information about computer programs used for the ana
 *   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
     [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
 
-*   BornAgain is a program to simulate and fit grazing incidence small-angle scattering  
+*   BornAgain, a program to simulate and fit reflectometry, off-specular scattering and grazing-incidence small-angle scattering, maintained by Joachim Wuttke and colleagues in the Scientific Computing Group of JCNS Garching.
     [http://bornagainproject.org](http://bornagainproject.org)
 
 *   MOTOFIT: A package that uses IGOR Pro for co-refinement of neutron and X-ray reflectivity data written by Andrew Nelson, Bragg Institute, ANSTO.  
